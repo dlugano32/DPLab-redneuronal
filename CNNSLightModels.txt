@@ -1,0 +1,15 @@
+Certainly! Here are a few CNN models known for their low-latency and low-power characteristics:
+
+1. ShuffleNet: ShuffleNet is designed to be highly efficient by utilizing channel shuffle operations and group convolutions. It achieves a good trade-off between accuracy and computational cost, making it suitable for low-power devices.
+
+2. SqueezeNet: SqueezeNet is a compact model that achieves comparable accuracy to larger networks while significantly reducing the number of parameters. It utilizes 1x1 convolutions to reduce the computational burden without sacrificing performance.
+
+3. EfficientNet: EfficientNet is a family of models that achieve state-of-the-art performance with fewer parameters compared to other models. It uses a compound scaling method to balance network depth, width, and resolution to optimize efficiency.
+
+4. MobileNetV2: MobileNetV2 is an extension of the original MobileNet model, designed for mobile and embedded devices. It employs depthwise separable convolutions to reduce computation and uses inverted residuals with linear bottleneck structures to improve accuracy.
+
+5. MobileNetV3: MobileNetV3 further improves upon MobileNetV2 by introducing a combination of several architectural modifications, such as squeeze-and-excitation blocks, hard-swish activation functions, and an emphasis on model efficiency.
+
+6. MnasNet: MnasNet is an automated neural architecture search-based model that is optimized for mobile devices. It achieves a good balance between latency and accuracy by using a combination of depthwise separable convolutions, squeeze-and-excitation blocks, and uniform depth for all layers.
+
+These models are specifically designed to be efficient in terms of computational resources and power consumption while maintaining reasonable accuracy. However, it's worth noting that the performance of these models can vary depending on the specific use case and the constraints of your target device.
