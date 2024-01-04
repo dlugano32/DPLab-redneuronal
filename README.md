@@ -1,8 +1,8 @@
 # RedNeuronal
 
-"In this repository, you will find the scripts I used during my tests and studies in neural networks as part of the research project 'Synthesized Artificial Intelligence in Hardware' from the DPLAB research group at UTN FRBA, Buenos Aires, Argentina.
+In this repository, you will find the scripts I used during my tests and studies in neural networks as part of the research project 'Synthesized Artificial Intelligence in Hardware' from the DPLAB research group at UTN FRBA, Buenos Aires, Argentina.
 
-Within this space, you'll come across Jupyter Notebooks developed to conduct tests and exercises proposed by the literature I consulted. Additionally, I have delved into the tools of scikit-learn and everything it offers, aiming to have a comprehensive overview of machine learning."
+Within this space, you'll come across Jupyter Notebooks developed to conduct tests and exercises proposed by the literature I consulted. Additionally, I have delved into the tools of scikit-learn and everything it offers, aiming to have a comprehensive overview of machine learning.
 
 Bibliography used:
 
